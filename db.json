@@ -10,24 +10,25 @@
   },
   "people":[
     {
-      id:1,
-      name:"henry",
-      lastname:"vasquez",
-      email:[
+      "id":1,
+      "name":"henry",
+      "lastname":"vasquez",
+      "email":[
         {
-          id: 1,
-          ema: "emailasa"
+          "id": 1,
+          "ema": "emailasa"
         }
       ]
     },
     {
-      id:2,name:"henry",
-      lastname:"vasquez"
+      "id":2,
+      "name":"henry",
+      "lastname":"vasquez"
     },
     {
-      id:3,
-      name:"henry",
-      lastname:"vasquez"
+      "id":3,
+      "name":"henry",
+      "lastname":"vasquez"
     }
   ]
 }
