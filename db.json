@@ -1,34 +1,12 @@
 {
-  "posts": [
+   
+  "users":[
     {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "people":[
-    {
-      "id":1,
-      "name":"henry",
-      "lastname":"vasquez",
-      "email":[
-        {
-          "id": 1,
-          "ema": "emailasa"
-        }
-      ]
+      "id":"76056590",
+      "placa:"ACB-322"
+      "name":"Henry",
+      "lastname":"Vásquez Yanahuillca",
+       "number":
     },
-    {
-      "id":2,
-      "name":"henry",
-      "lastname":"vasquez"
-    },
-    {
-      "id":3,
-      "name":"henry",
-      "lastname":"vasquez"
-    }
-  ]
+       ]
 }
