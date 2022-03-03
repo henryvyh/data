@@ -3,10 +3,10 @@
   "users":[
     {
       "id":"76056590",
-      "placa":"ACB-322"
+      "placa":"ACB-322",
       "name":"Henry",
       "lastname":"Vásquez Yanahuillca",
-       "number":"910480720"
-    },
-       ]
+      "number":"910480720"
+    }
+   ]
 }
