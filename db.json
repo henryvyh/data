@@ -8,5 +8,12 @@
       "lastname":"Vásquez Yanahuillca",
       "number":"910480720"
     }
-   ]
+   ],
+  "times":[
+    {
+      "id":1,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    }
+  ]
 }
