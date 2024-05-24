@@ -24,6 +24,16 @@
       "id":1,
       "name":"Cancha de futbol",
       "image":"https://picsum.photos/200"
+    },
+    {
+      "id":2,
+      "name":"Cancha de basquet",
+      "image":"https://picsum.photos/200"
+    },
+    {
+      "id":3,
+      "name":"Cancha de voley",
+      "image":"https://picsum.photos/200"
     }
   ]
 }
