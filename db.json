@@ -40,32 +40,38 @@
        {
       "id":1,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+         "price":314.2
     },
      {
       "id":2,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+       "price":54.2
     },
        {
       "id":3,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+         "price":84.2
     },
      {
       "id":4,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+       "price":74.2
     },
         {
       "id":5,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+          "price":4.2
     },
         {
       "id":6,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+          "price":7.2
     }
      ]
 }
