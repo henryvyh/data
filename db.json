@@ -19,6 +19,71 @@
        "image": "https://picsum.photos/200"
     }
    ],
+   "stablishment":[
+      {
+      "id":1,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    }
+],
+  "schedule":[
+     {
+      "id":1,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    }
+],
+  "search":[
+     "times":[
+       {
+      "id":1,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+     {
+      "id":2,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+       {
+      "id":3,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+     {
+      "id":4,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+        {
+      "id":5,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+        {
+      "id":6,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    }
+     ],
+    "stablishment":[
+      {
+      "id":1,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+     {
+      "id":2,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+       {
+      "id":3,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    }
+    ]
+  ],
   "times":[
     {
       "id":1,
