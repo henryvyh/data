@@ -33,8 +33,9 @@
       "image":"https://picsum.photos/200"
     }
 ],
-  "search":[
-     "times":[
+  "search":
+     {
+       "times":[
        {
       "id":1,
       "name":"Cancha de futbol",
@@ -83,7 +84,8 @@
       "image":"https://picsum.photos/200"
     }
     ]
-  ],
+     }
+  ,
   "times":[
     {
       "id":1,
