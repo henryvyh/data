@@ -18,24 +18,25 @@
       "number":"910480721",
        "image": "https://picsum.photos/200"
     }
-   ],
-   "stablishment":[
+   ], 
+ "stablishment":[
       {
       "id":1,
       "name":"Cancha de futbol",
       "image":"https://picsum.photos/200"
-    }
-],
-  "schedule":[
+    },
      {
-      "id":1,
+      "id":2,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200"
+    },
+       {
+      "id":3,
       "name":"Cancha de futbol",
       "image":"https://picsum.photos/200"
     }
-],
-  "search":
-     {
-       "times":[
+    ],
+  "times":[
        {
       "id":1,
       "name":"Cancha de futbol",
@@ -66,41 +67,5 @@
       "name":"Cancha de futbol",
       "image":"https://picsum.photos/200"
     }
-     ],
-    "stablishment":[
-      {
-      "id":1,
-      "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
-    },
-     {
-      "id":2,
-      "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
-    },
-       {
-      "id":3,
-      "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
-    }
-    ]
-     }
-  ,
-  "times":[
-    {
-      "id":1,
-      "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "id":2,
-      "name":"Cancha de basquet",
-      "image":"https://picsum.photos/200"
-    },
-    {
-      "id":3,
-      "name":"Cancha de voley",
-      "image":"https://picsum.photos/200"
-    }
-  ]
+     ]
 }
