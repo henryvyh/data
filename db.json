@@ -67,10 +67,12 @@
       "name":"Cancha 1",
       "image":"https://images.pexels.com/photos/20250810/pexels-photo-20250810/free-photo-of-mar-oceano-fondo-de-pantalla-vista-panoramica.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
          "price":314.2,
+         "date":"2024-05-26 21:00:00.000",
          "stablishment":{
       "id":1,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
         }
     },
      {
