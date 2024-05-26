@@ -4,7 +4,7 @@
       "id": 1,
       "dni":"76056590",
       "placa":"ACB-322",
-      "name":"Henry",
+      "name":"Futbol",
       "lastname":"Vásquez Yanahuillca",
       "number":"910480720",
       "image": "https://picsum.photos/200"
@@ -13,7 +13,16 @@
       "id": 2,
       "dni":"76056590",
       "placa":"ACB-321",
-      "name":"Henry",
+      "name":"Vloey",
+      "lastname":"Vásquez Yanahuillca",
+      "number":"910480721",
+       "image": "https://picsum.photos/200"
+    },
+    {
+      "id": 3,
+      "dni":"76056590",
+      "placa":"ACB-321",
+      "name":"Basquet",
       "lastname":"Vásquez Yanahuillca",
       "number":"910480721",
        "image": "https://picsum.photos/200"
