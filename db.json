@@ -2,29 +2,40 @@
   "users":[
     {
       "id": 1,
-      "dni":"76056590",
-      "placa":"ACB-322",
       "name":"Futbol",
-      "lastname":"Vásquez Yanahuillca",
-      "number":"910480720",
       "image": "https://picsum.photos/200"
     },
      {
       "id": 2,
-      "dni":"76056590",
-      "placa":"ACB-321",
       "name":"Vloey",
-      "lastname":"Vásquez Yanahuillca",
-      "number":"910480721",
        "image": "https://picsum.photos/200"
     },
     {
       "id": 3,
-      "dni":"76056590",
-      "placa":"ACB-321",
       "name":"Basquet",
-      "lastname":"Vásquez Yanahuillca",
-      "number":"910480721",
+       "image": "https://picsum.photos/200"
+    },
+     {
+      "id": 4,
+      "name":"Basquet",
+       "image": "https://picsum.photos/200"
+    },
+     {
+      "id": 5,
+      "name":"Basquet",
+       "image": "https://picsum.photos/200"
+    },
+     {
+      "id": 6,
+      "name":"Basquet",
+       "image": "https://picsum.photos/200"
+    }, {
+      "id": 7,
+      "name":"Basquet",
+       "image": "https://picsum.photos/200"
+    }, {
+      "id": 8,
+      "name":"Basquet",
        "image": "https://picsum.photos/200"
     }
    ], 
