@@ -80,10 +80,12 @@
       "name":"Cancha 2",
       "image":"https://images.pexels.com/photos/15578747/pexels-photo-15578747/free-photo-of-naturaleza-animal-prado-plantas.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
        "price":54.2,
-        "stablishment":{
+        "date":"2024-05-26 21:00:00.000",
+         "stablishment":{
       "id":2,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
         }
     },
        {
@@ -91,27 +93,38 @@
       "name":"Cancha 3",
       "image":"https://images.pexels.com/photos/23459284/pexels-photo-23459284/free-photo-of-mar-naturaleza-pajaro-agua.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
          "price":84.2,
-          "stablishment":{
-      "id":2,
+          "date":"2024-05-26 21:00:00.000",
+         "stablishment":{
+      "id":3,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
         }
     },
      {
       "id":4,
       "name":"Cancha 4",
       "image":"https://images.pexels.com/photos/9566277/pexels-photo-9566277.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
-       "price":74.2
+       "price":74.2,
+        "date":"2024-05-26 21:00:00.000",
+         "stablishment":{
+      "id":4,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
+        }
     },
         {
       "id":5,
       "name":"Cancha de futbol",
       "image":"https://images.pexels.com/photos/23600779/pexels-photo-23600779/free-photo-of-comida-amanecer-cafe-taza.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
           "price":4.2,
-           "stablishment":{
-      "id":3,
-      "name":"Cancha 5",
-      "image":"https://picsum.photos/200"
+           "date":"2024-05-26 21:00:00.000",
+         "stablishment":{
+      "id":5,
+      "name":"Cancha de futbol",
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
         }
     },
         {
@@ -119,10 +132,12 @@
       "name":"Cancha 6",
       "image":"https://images.pexels.com/photos/23193129/pexels-photo-23193129/free-photo-of-arte-verano-jardin-hoja.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
           "price":7.2,
-           "stablishment":{
-      "id":3,
+           "date":"2024-05-26 21:00:00.000",
+         "stablishment":{
+      "id":6,
       "name":"Cancha de futbol",
-      "image":"https://picsum.photos/200"
+      "image":"https://picsum.photos/200",
+           "location":"Av sequis"
         }
     }
      ]
