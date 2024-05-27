@@ -95,43 +95,83 @@
       "id": 3,
       "name":"Basquet",
        "image": "https://picsum.photos/200"
-    },
-     {
-      "id": 4,
-      "name":"Basquet",
-       "image": "https://picsum.photos/200"
-    },
-     {
-      "id": 5,
-      "name":"Basquet",
-       "image": "https://picsum.photos/200"
-    },
-     {
-      "id": 6,
-      "name":"Basquet",
-       "image": "https://picsum.photos/200"
-    }, {
-      "id": 7,
-      "name":"Basquet",
-       "image": "https://picsum.photos/200"
-    }, {
-      "id": 8,
-      "name":"Basquet",
-       "image": "https://picsum.photos/200"
     }
+      
    ], 
  "stablishment":[
-      {
+       {
       "id":1,
-      "name":"Maracana", "description":"description Mmonumental",
-        "location":"aaad",
-      "image":"https://images.pexels.com/photos/24838633/pexels-photo-24838633/free-photo-of-ligero-ciudad-arte-punto-de-referencia.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
-    },
-     {
-      "id":2,
-      "name":"Camping", "description":"description Mmonumental",
-        "location":"aaad",
-      "image":"https://images.pexels.com/photos/23623513/pexels-photo-23623513/free-photo-of-madera-paisaje-verano-purpura.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      "name":"Mmonumental numesadsd",
+       "description":"description Mmonumental",
+      "location":{
+        "latitude":124.222,
+        "longitude":123.33
+      },
+      "address":"addd ress",
+      "open":true,
+     "image": "https://picsum.photos/200",
+    "gallery":[
+      "https://images.pexels.com/photos/3029940/pexels-photo-3029940.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/11337394/pexels-photo-11337394.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/1557549/pexels-photo-1557549.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+    ],
+      "schedule":{
+        "day":"",
+        "night":""
+      },
+      "price":{
+        "day":34.2,
+        "night":90
+      },
+      "courts":[
+         {
+      "id": 1,
+      "name":"Futbol",
+           "icon":"football",
+      "image": "https://images.pexels.com/photos/5540/person-street-vintage-old.jpg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },
+         {
+      "id": 2,
+      "name":"Voley",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },{
+      "id": 3,
+      "name":"Voley 2",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      }
+      ],
+      "amenities":[
+        {
+      "id": 1,
+      "name":"Baño",
+       "icon":"home"
+        },
+         {
+      "id": 2,
+      "name":"Ducha",
+       "icon":"home"
+        },
+        {
+      "id": 3,
+      "name":"Wifi",
+       "icon":"home"
+        },
+        {
+      "id": 4,
+      "name":"Parking",
+       "icon":"home"
+        },
+        {
+      "id": 5,
+      "name":"Grill",
+       "icon":"home"
+        },
+        {
+      "id": 6,
+      "name":"Bebidas",
+       "icon":"home"
+        }
+      ]
     }
     
     ],
@@ -144,10 +184,78 @@
          "date":"2024-05-16 11:00:40.000",
          "stablishment":{
       "id":1,
-      "name":"Cancha de futbol", "description":"description Mmonumental",
-      "image":"https://picsum.photos/200",
-           "location":"Av sequis"
+      "name":"Mmonumental numesadsd",
+       "description":"description Mmonumental",
+      "location":{
+        "latitude":124.222,
+        "longitude":123.33
+      },
+      "address":"addd ress",
+      "open":true,
+     "image": "https://picsum.photos/200",
+    "gallery":[
+      "https://images.pexels.com/photos/3029940/pexels-photo-3029940.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/11337394/pexels-photo-11337394.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/1557549/pexels-photo-1557549.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+    ],
+      "schedule":{
+        "day":"",
+        "night":""
+      },
+      "price":{
+        "day":34.2,
+        "night":90
+      },
+      "courts":[
+         {
+      "id": 1,
+      "name":"Futbol",
+           "icon":"football",
+      "image": "https://images.pexels.com/photos/5540/person-street-vintage-old.jpg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },
+         {
+      "id": 2,
+      "name":"Voley",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },{
+      "id": 3,
+      "name":"Voley 2",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      }
+      ],
+      "amenities":[
+        {
+      "id": 1,
+      "name":"Baño",
+       "icon":"home"
+        },
+         {
+      "id": 2,
+      "name":"Ducha",
+       "icon":"home"
+        },
+        {
+      "id": 3,
+      "name":"Wifi",
+       "icon":"home"
+        },
+        {
+      "id": 4,
+      "name":"Parking",
+       "icon":"home"
+        },
+        {
+      "id": 5,
+      "name":"Grill",
+       "icon":"home"
+        },
+        {
+      "id": 6,
+      "name":"Bebidas",
+       "icon":"home"
         }
+      ]
+    }
     },
      {
       "id":2,
@@ -156,24 +264,80 @@
        "price":54.2,
         "date":"2024-05-02 10:20:00.000",
          "stablishment":{
-      "id":2,
-      "name":"Cancha de futbol", "description":"description Mmonumental",
-      "image":"https://picsum.photos/200",
-           "location":"Av sequis"
+      "id":1,
+      "name":"Mmonumental numesadsd",
+       "description":"description Mmonumental",
+      "location":{
+        "latitude":124.222,
+        "longitude":123.33
+      },
+      "address":"addd ress",
+      "open":true,
+     "image": "https://picsum.photos/200",
+    "gallery":[
+      "https://images.pexels.com/photos/3029940/pexels-photo-3029940.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/11337394/pexels-photo-11337394.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load","https://images.pexels.com/photos/1557549/pexels-photo-1557549.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+    ],
+      "schedule":{
+        "day":"",
+        "night":""
+      },
+      "price":{
+        "day":34.2,
+        "night":90
+      },
+      "courts":[
+         {
+      "id": 1,
+      "name":"Futbol",
+           "icon":"football",
+      "image": "https://images.pexels.com/photos/5540/person-street-vintage-old.jpg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },
+         {
+      "id": 2,
+      "name":"Voley",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },{
+      "id": 3,
+      "name":"Voley 2",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      }
+      ],
+      "amenities":[
+        {
+      "id": 1,
+      "name":"Baño",
+       "icon":"home"
+        },
+         {
+      "id": 2,
+      "name":"Ducha",
+       "icon":"home"
+        },
+        {
+      "id": 3,
+      "name":"Wifi",
+       "icon":"home"
+        },
+        {
+      "id": 4,
+      "name":"Parking",
+       "icon":"home"
+        },
+        {
+      "id": 5,
+      "name":"Grill",
+       "icon":"home"
+        },
+        {
+      "id": 6,
+      "name":"Bebidas",
+       "icon":"home"
         }
-    },
-       {
-      "id":3,
-      "name":"Cancha 3",
-      "image":"https://images.pexels.com/photos/23459284/pexels-photo-23459284/free-photo-of-mar-naturaleza-pajaro-agua.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load",
-         "price":84.2,
-          "date":"2024-03-16 02:30:00.000",
-         "stablishment":{
-      "id":3,
-      "name":"Cancha de futbol", "description":"description Mmonumental",
-      "image":"https://picsum.photos/200",
-           "location":"Av sequis"
-        }
-    } 
+      ]
+    }
+    }
+        
      ]
 }
