@@ -47,12 +47,32 @@
       "amenities":[
         {
       "id": 1,
-      "name":"Ba;o",
+      "name":"Baño",
        "icon":"home"
         },
          {
       "id": 2,
-      "name":"Ducja",
+      "name":"Ducha",
+       "icon":"home"
+        },
+        {
+      "id": 3,
+      "name":"Wifi",
+       "icon":"home"
+        },
+        {
+      "id": 4,
+      "name":"Parking",
+       "icon":"home"
+        },
+        {
+      "id": 5,
+      "name":"Grill",
+       "icon":"home"
+        },
+        {
+      "id": 6,
+      "name":"Bebidas",
        "icon":"home"
         }
       ]
