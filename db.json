@@ -1,4 +1,49 @@
 {
+  "config":[
+    {
+      "id":1,
+      "name":"Mmonumental",
+       "description":"description Mmonumental",
+      "address":"addd ress",
+      "open":true,
+     "image": "https://picsum.photos/200",
+    "gallery":[
+      "https://picsum.photos/200","https://picsum.photos/200","https://picsum.photos/200"
+    ],
+      "schedule":{
+        "day":"",
+        "night":""
+      },
+      "price":{
+        "day":34.2,
+        "night":90
+      },
+      "courts":[
+         {
+      "id": 1,
+      "name":"Futbol",
+      "image": "https://picsum.photos/200"
+      },
+         {
+      "id": 2,
+      "name":"Voley",
+      "image": "https://picsum.photos/200"
+      }
+      ],
+      "amenities":[
+        {
+      "id": 1,
+      "name":"Ba;o",
+       "icon":"home"
+        },
+         {
+      "id": 2,
+      "name":"Ducja",
+       "icon":"home"
+        }
+      ]
+    }
+  ],
   "users":[
     {
       "id": 1,
