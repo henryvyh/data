@@ -1,9 +1,16 @@
 {
   "config":[
     {
+      
+      "stablishments":[
+        {
       "id":1,
       "name":"Mmonumental",
        "description":"description Mmonumental",
+      "location":{
+        "latitude":124.222,
+        "longitude":123.33,
+      },
       "address":"addd ress",
       "open":true,
      "image": "https://picsum.photos/200",
@@ -41,6 +48,8 @@
       "name":"Ducja",
        "icon":"home"
         }
+      ]
+    }
       ]
     }
   ],
