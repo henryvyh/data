@@ -37,6 +37,11 @@
       "name":"Voley",
            "icon":"volibol",
       "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
+      },{
+      "id": 3,
+      "name":"Voley 2",
+           "icon":"volibol",
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
       }
       ],
       "amenities":[
