@@ -29,11 +29,13 @@
          {
       "id": 1,
       "name":"Futbol",
+           "icon":"home",
       "image": "https://picsum.photos/200"
       },
          {
       "id": 2,
       "name":"Voley",
+           "icon":"home",
       "image": "https://picsum.photos/200"
       }
       ],
