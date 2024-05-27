@@ -30,13 +30,13 @@
       "id": 1,
       "name":"Futbol",
            "icon":"football",
-      "image": "https://picsum.photos/200"
+      "image": "https://images.pexels.com/photos/5540/person-street-vintage-old.jpg?auto=compress&cs=tinysrgb&w=800&lazy=load"
       },
          {
       "id": 2,
       "name":"Voley",
            "icon":"volibol",
-      "image": "https://picsum.photos/200"
+      "image": "https://images.pexels.com/photos/8816147/pexels-photo-8816147.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
       }
       ],
       "amenities":[
