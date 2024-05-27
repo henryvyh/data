@@ -123,28 +123,17 @@
  "stablishment":[
       {
       "id":1,
-      "name":"Maracana",
+      "name":"Maracana", "description":"description Mmonumental",
         "location":"aaad",
       "image":"https://images.pexels.com/photos/24838633/pexels-photo-24838633/free-photo-of-ligero-ciudad-arte-punto-de-referencia.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
     },
      {
       "id":2,
-      "name":"Camping",
+      "name":"Camping", "description":"description Mmonumental",
         "location":"aaad",
       "image":"https://images.pexels.com/photos/23623513/pexels-photo-23623513/free-photo-of-madera-paisaje-verano-purpura.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
-    },
-       {
-      "id":3,
-      "name":"Monumental nunez",
-          "location":"aa adasad",
-      "image":"https://picsum.photos/200"
-    },
-   {
-      "id":4,
-      "name":"Monumental nunez",
-      "location":"aaa dadad",
-      "image":"https://images.pexels.com/photos/23842679/pexels-photo-23842679/free-photo-of-ligero-ciudad-moda-gente.jpeg?auto=compress&cs=tinysrgb&w=800&lazy=load"
     }
+    
     ],
   "times":[
        {
